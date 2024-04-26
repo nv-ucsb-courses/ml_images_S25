@@ -1,1 +1,1 @@
-# Course notes for ML for bioimages
+# Notes for bioimage ML class
