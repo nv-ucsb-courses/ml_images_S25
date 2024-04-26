@@ -1,1 +1,1 @@
-# Notes for bioimage ML class
+# Notes for UCSB BIOE250AC class
