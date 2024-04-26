@@ -1,1 +1,1 @@
-# Notes for UCSB BIOE250AC class
+# UCSB BioE250AC class notes
