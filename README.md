@@ -1,6 +1,6 @@
 # UCSB BioE250AC class notes
 
-(https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)
+![test](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)
 
 **Anaconda Installation:**
 
