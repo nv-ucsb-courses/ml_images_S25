@@ -37,6 +37,6 @@ After class or via Zoom by appointment
 ### Reference Material
 Generally, textbooks do not adequately cover the areas we are discussing due to the exponential development curve of the field. This rapid advancement means that even recently published books can quickly become outdated. Nevertheless, here are two excellent textbooks that cover most of the basic concepts in depth:
 * Artificial Intelligence: A Modern Approach, 4th Edition (2020) by Stuart Russell and Peter Norvig
-* Deep Learning (2016) by Ian Goodfellow, Yoshua Bengio, Aaron Courville, Free online version [here](https://www.deeplearningbook.org/).
+* Deep Learning (2016) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, Free online version [here](https://www.deeplearningbook.org/).
 
 For many of the topics we discussed that are not covered in these books, [Wikipedia](https://www.wikipedia.org/) often serves as a useful initial resource, although the quality can vary.
