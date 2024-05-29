@@ -11,6 +11,26 @@
 
 This course offers an introduction to machine learning for students with a biological or bioengineering background. A strong background in computer science is not required but a solid understanding of basic linear algebra and calculus is expected. The course is particularly focused on applications in bioimaging and structural biology. We'll start with a history of artificial intelligence to set the stage, then move into the basics of neural networks, helping you understand the key components that power these systems. As the course progresses, we'll explore modern machine-learning techniques like convolutional neural networks, transformers, autoencoders, and deep Q-learning, paying special attention to how these can be applied to bioimaging and structural biology problems. The final part of the course is dedicated to student presentations, where you'll choose and discuss research papers, giving you a chance to dive deeper into specific topics that interest you. By the end of the course, you should be equipped with a solid foundation in machine learning concepts and their practical applications in bioimaging and structural biology.
 
+### Presentation Schedule:
+
+*June 6:*
+- ***Peicheng*** - Evolutionary design of explainable algorithms for biomedical image segmentation
+- ***Natasha*** - YeastSpotter: accurate and parameter-free web segmentation for microscopy images of yeast cells
+- ***Gianna*** - Training a deep learning model for single‐cell segmentation without manual annotation
+- ***Trent*** - Topaz-Denoise: general deep denoising models for cryoEM and cryoET
+
+*June 11:*
+- ***Lauren*** - Minesweeper is NP-complete
+- ***Xiyu*** - TBA
+- ***Sam*** - nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation
+- ***Roberto*** - Highly accurate protein structure prediction with AlphaFold
+
+*June 13:*
+- ***Zsofia*** - DeepImageJ: A user-friendly environment to run deep learning models in ImageJ
+- ***Artury*** - A scalable pipeline for designing reconfigurable organisms
+- ***Miguel*** - Independent regulation of Z-lines and M-lines during sarcomere assembly in cardiac myocytes
+- ***Daniella*** - Cellpose 2.0: how to train your own model
+
 
 ### Learning Objectives
 
@@ -38,5 +58,6 @@ After class or via Zoom by appointment
 Generally, textbooks do not adequately cover the areas we are discussing due to the exponential development curve of the field. This rapid advancement means that even recently published books can quickly become outdated. Nevertheless, here are two excellent textbooks that cover most of the basic concepts in depth:
 * Artificial Intelligence: A Modern Approach, 4th Edition (2020) by Stuart Russell and Peter Norvig
 * Deep Learning (2016) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, Free online version [here](https://www.deeplearningbook.org/).
+* Practical Machine Learning for Computer Vision (2021) by Valliappa Lakshmanan, Martin Görner & Ryan Gillard
 
 For many of the topics we discussed that are not covered in these books, [Wikipedia](https://www.wikipedia.org/) often serves as a useful initial resource, although the quality can vary.
