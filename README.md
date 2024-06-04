@@ -64,3 +64,15 @@ Generally, textbooks do not adequately cover the areas we are discussing due to 
 * Practical Machine Learning for Computer Vision (2021) by Valliappa Lakshmanan, Martin Görner & Ryan Gillard
 
 For many of the topics we discussed that are not covered in these books, [Wikipedia](https://www.wikipedia.org/) often serves as a useful initial resource, although the quality can vary.
+
+### Additional Resources
+Reviews and Resource tables (with links) are located here: 
+* [Course Resource Directory](https://www.dropbox.com/scl/fo/m247co503xbiw1tfkf9st/AIfOKvHiXZJbWii-iwHhG8E?rlkey=nnt5u3gz8tr9e2kjucb7o0p8o&dl=0).
+
+Other useful links: 
+* [TensorFlow](https://www.tensorflow.org/)
+* [PyTorch](https://pytorch.org/)
+* [Keras](https://keras.io/)
+* [KerasCV](https://keras.io/keras_cv/)
+* [HuggingFAce](https://huggingface.co/)
+
