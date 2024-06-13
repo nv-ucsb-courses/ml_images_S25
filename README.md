@@ -74,5 +74,5 @@ Other useful links:
 * [PyTorch](https://pytorch.org/)
 * [Keras](https://keras.io/)
 * [KerasCV](https://keras.io/keras_cv/)
-* [HuggingFAce](https://huggingface.co/)
+* [HuggingFace](https://huggingface.co/)
 
