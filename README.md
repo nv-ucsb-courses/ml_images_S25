@@ -1,4 +1,4 @@
-# UCSB BioE250AC 
+# UCSB BioE 250AC 
 
 
 ![test](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)
