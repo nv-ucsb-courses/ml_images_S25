@@ -13,7 +13,7 @@ This course offers an introduction to machine learning for students with a biolo
 
 ### Chat/Discussions
 
-I set up a chat in the [Discussions section] of this site as a class forum for you to post questions about the course or other public questions and share ideas or links.
+I set up a chat in the [Discussions section](https://github.com/nv-ucsb-courses/ml_images_S25/discussions/1) of this site as a class forum for you to post questions about the course or other public questions and share ideas or links.
 
 <!-- ### Course Evaluation Link: 
 https://ucsb.bluera.com/ucsb (It looks like this link is fixed now)
