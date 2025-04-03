@@ -7,9 +7,13 @@
 
 **Instructor: Niels Volkmann**
 
-**Course Description**
+### Course Description
 
 This course offers an introduction to machine learning for students with a biological or bioengineering background. A strong background in computer science is not required but a solid understanding of basic linear algebra and calculus is expected. The course is particularly focused on applications in bioimaging and structural biology. We'll start with a history of artificial intelligence to set the stage, then move into the basics of neural networks, helping you understand the key components that power these systems. As the course progresses, we'll explore modern machine-learning techniques like convolutional neural networks, transformers, autoencoders, and deep Q-learning, paying special attention to how these can be applied to bioimaging and structural biology problems. The final part of the course is dedicated to student presentations, where you'll choose and discuss research papers, giving you a chance to dive deeper into specific topics that interest you. By the end of the course, you should be equipped with a solid foundation in machine learning concepts and their practical applications in bioimaging and structural biology.
+
+### Chat/Discussions
+
+I set up a chat in the [Discussions section] of this site as a class forum for you to post questions about the course or other public questions and share ideas or links.
 
 <!-- ### Course Evaluation Link: 
 https://ucsb.bluera.com/ucsb (It looks like this link is fixed now)
