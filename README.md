@@ -1,4 +1,4 @@
-# UCSB BioE 250AC 
+# UCSB BioE 244 / IQB 206 
 
 
 ![test](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)
@@ -52,18 +52,25 @@ After class or via Zoom by appointment
 
 
 ### Grading
-10% Participation, 10% Quizzes, 80% Presentation
+15% Participation, 15% Quizzes, 70% Presentation
+
+### iClicker
+
+For quizzes and polls, we will use iClicker in class. If you have not already done so, please make sure you have a UCSB iClicker student account ready. Here is a [link](https://help.lsit.ucsb.edu/hc/en-us/articles/360054938191-iClicker-Cloud-for-Students) with the pertinent information. The join link for the course is [here](https://join.iclicker.com/UCLU). If the ink does not work, try searching for "ML for Bioimaging" in the iClicker search interface. Be aware that the in-class iClicker activities will count towards your grades. For polls, I will give credit for participation only, the correctness of the answers will not influence the grades. For quizzes, of course, the grading will depend on the answers.  If you miss an iClicker activity without prior approval, you will not be able to make up for it.
+
 
 ### Presentation Format
-15 minutes presentation (sharp), 5 minutes for questions. Papers can either be selected from the list provided [here](https://www.dropbox.com/scl/fo/dmxzezrx4yztq98p5jf9f/APhHThb5mSrmXrMMKzYlTkg?rlkey=vtog00ryx9oc1329h77pz6ew8&dl=0) (first come first serve) or from the general literature upon approval by the instructor. 
+15 minutes presentation (sharp), 5 minutes for questions. Papers can either be selected from the list provided later or from the general literature upon approval by the instructor. 
+
+<!-- [here](https://www.dropbox.com/scl/fo/dmxzezrx4yztq98p5jf9f/APhHThb5mSrmXrMMKzYlTkg?rlkey=vtog00ryx9oc1329h77pz6ew8&dl=0) (first come first serve) -->
 
 ### Reference Material
-Generally, textbooks do not adequately cover the areas we are discussing due to the exponential development curve of the field. This rapid advancement means that even recently published books can quickly become outdated. Nevertheless, here are two excellent textbooks that cover most of the basic concepts in depth:
+Generally, textbooks do not adequately cover the areas we are discussing due to the exponential development curve of the field. This rapid advancement means that even recently published books can quickly become outdated. Nevertheless, here are three excellent textbooks that cover most of the basic concepts in depth:
 * Artificial Intelligence: A Modern Approach, 4th Edition (2020) by Stuart Russell and Peter Norvig
 * Deep Learning (2016) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, Free online version [here](https://www.deeplearningbook.org/).
 * Practical Machine Learning for Computer Vision (2021) by Valliappa Lakshmanan, Martin Görner & Ryan Gillard
 
-For many of the topics we discussed that are not covered in these books, [Wikipedia](https://www.wikipedia.org/) often serves as a useful initial resource, although the quality can vary.
+For many of the topics we discussed that are not covered in these books, [Wikipedia](https://www.wikipedia.org/) often serves as a useful initial resource, although the quality can vary. I will also provide some additional resources during this course on this site.
 
 <!-- ### Additional Resources
 Reviews and Resource tables (with links) are located here: 
