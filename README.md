@@ -64,9 +64,7 @@ For quizzes and polls, we will use iClicker in class. If you have not already do
 
 
 ### Presentation Format
-15 minutes presentation (sharp), 5 minutes for questions. Papers can either be selected from the list provided later or from the general literature upon approval by the instructor. 
-
-<!-- [here](https://www.dropbox.com/scl/fo/dmxzezrx4yztq98p5jf9f/APhHThb5mSrmXrMMKzYlTkg?rlkey=vtog00ryx9oc1329h77pz6ew8&dl=0) (first come first serve) -->
+15 minutes presentation (sharp), 5 minutes for questions. Papers can either be selected from the list provided  [here](https://www.dropbox.com/scl/fo/dmxzezrx4yztq98p5jf9f/APhHThb5mSrmXrMMKzYlTkg?rlkey=vtog00ryx9oc1329h77pz6ew8&dl=0) (first come first serve) or from the general literature upon approval by the instructor. 
 
 ### Reference Material
 Generally, textbooks do not adequately cover the areas we are discussing due to the exponential development curve of the field. This rapid advancement means that even recently published books can quickly become outdated. Nevertheless, here are three excellent textbooks that cover most of the basic concepts in depth:
