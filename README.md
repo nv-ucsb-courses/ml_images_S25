@@ -64,7 +64,9 @@ For quizzes and polls, we will use iClicker in class. If you have not already do
 
 
 ### Presentation Format
-15 minutes presentation (sharp), 5 minutes for questions. Papers can either be selected from the list provided  [here](https://www.dropbox.com/scl/fo/dmxzezrx4yztq98p5jf9f/APhHThb5mSrmXrMMKzYlTkg?rlkey=vtog00ryx9oc1329h77pz6ew8&dl=0) (first come first serve) or from the general literature upon approval by the instructor. 
+15 minutes presentation total (sharp), allow a minimum of 2 minutes for questions. Papers can either be selected from the list provided  [here](https://www.dropbox.com/scl/fo/dmxzezrx4yztq98p5jf9f/APhHThb5mSrmXrMMKzYlTkg?rlkey=vtog00ryx9oc1329h77pz6ew8&dl=0) (first come first serve) or from the general literature upon approval by the instructor. Papers that have already been selected by someone will show up as _\<papertitle\>_\__TAKEN_\__\<NAME\>.pdf_ (where \<papertitle\> and \<NAME\> are variables). 
+
+We will use 3 timeslots for the presentations. Two will fall into the finals week, and one will be the last timeslot for the regular classes. In the interest of fairness, I will calculate the order of the presentations live during the last class before the presentations using the Python random generation capabilities. This will ensure that everyone has to be ready with their presentation at the same time. I will also incorporate attendance at the three presentation sessions into the presentation score. 
 
 ### Reference Material
 Generally, textbooks do not adequately cover the areas we are discussing due to the exponential development curve of the field. This rapid advancement means that even recently published books can quickly become outdated. Nevertheless, here are three excellent textbooks that cover most of the basic concepts in depth:
