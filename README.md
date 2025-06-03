@@ -15,28 +15,37 @@ This course offers an introduction to machine learning for students with a biolo
 
 I set up a chat in the [Discussions section](https://github.com/nv-ucsb-courses/ml_images_S25/discussions/1) of this site as a class forum for you to post questions about the course or other public questions and share ideas or links.
 
-<!-- ### Course Evaluation Link: 
-https://ucsb.bluera.com/ucsb (It looks like this link is fixed now)
+### Course Evaluation Links: 
+* [iPQB-206 students](https://go.blueja.io/ehn17KIQm0K67o8MHJ-mdQ)
+* [BioE-244 students](https://go.blueja.io/SzilFYJ-OOykuFekMnMq4g)
 
 ### Presentation Schedule:
 
-*June 6:*
-- ***Peicheng*** - Evolutionary design of explainable algorithms for biomedical image segmentation
-- ***Natasha*** - YeastSpotter: accurate and parameter-free web segmentation for microscopy images of yeast cells
-- ***Gianna*** - Training a deep learning model for single‐cell segmentation without manual annotation
-- ***Trent*** - Topaz-Denoise: general deep denoising models for cryoEM and cryoET
+*June 3rd (2:00 PM - 3:15 PM)*
+- ***Jiatong*** - Attention Is All You Need
+- ***Bowen*** - An image is worth 16X16 words: transformers for image recognition at scale
+- ***Emily J*** - High-precision automated reconstruction of neurons with flood-filling networks
+- ***Yanwei*** - DeepNeuron: an open deep learning toolbox for neuron tracing
 
-*June 11:*
-- ***Lauren*** - Minesweeper is NP-complete
-- ***Xiyu*** - Deep Residual Learning for Image Recognition
-- ***Sam*** - nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation
-- ***Roberto*** - Highly accurate protein structure prediction with AlphaFold
+*June 6th (2:00 PM - 3:15 PM):*
+- ***Elizabeth*** - DeepImageJ: A user-friendly environment to run deep learning models in ImageJ
+- ***Kat*** - Cellpose 2.0: how to train your own model
+- ***Katelyn*** - Democratising deep learning for microscopy with ZeroCostDL4Mic
+- ***Leo*** - CellCognition: time-resolved phenotype annotation in high-throughput live cell imaging
 
-*June 13:*
-- ***Zsofia*** - DeepImageJ: A user-friendly environment to run deep learning models in ImageJ
-- ***Artury*** - A scalable pipeline for designing reconfigurable organisms
-- ***Miguel*** - Independent regulation of Z-lines and M-lines during sarcomere assembly in cardiac myocytes
-- ***Daniella*** - Cellpose 2.0: how to train your own model -->
+*June 10th (4:00 PM - 7:00 PM):*
+- ***Donovan*** - BioBERT: a pre-trained biomedical language representation model for biomedical text mining
+- ***Haley*** - Positive-unlabeled convolutional neural networks for particle picking in cryo-electron micrographs
+- ***Andres*** - CryoDRGN: reconstruction of heterogeneous cryo-EM structures using neural networks
+- ***Keon*** - EEG driven model predictive position control of an artificial limb using neural net
+- ***Marcus*** - Automated segmentation of cell organelles in volume electron microscopy using deep learning
+  
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20 minutes break*
+- ***Emily G*** - Precise measurement of nanoscopic septin ring structures with deep learning-assisted quantitative superresolution microscopy
+- ***Mounami*** - ViTBIS: Vision Transformer for Biomedical Image Segmentation
+- ***Rafael*** - Highly accurate protein structure prediction with AlphaFold
+- ***Kevin*** - Accurate structure prediction of biomolecular interactions with AlphaFold 3
+- ***Sam*** - Simulating 500 million years of evolution with a language model
 
 
 ### Learning Objectives
@@ -62,21 +71,10 @@ After class or via Zoom by appointment
 
 For quizzes and polls, we will use iClicker in class. If you have not already done so, please make sure you have a UCSB iClicker student account ready. Here is a [link](https://help.lsit.ucsb.edu/hc/en-us/articles/360054938191-iClicker-Cloud-for-Students) with the pertinent information. The join link for the course is [here](https://join.iclicker.com/UCLU). If the ink does not work, try searching for "ML for Bioimaging" in the iClicker search interface. Be aware that the in-class iClicker activities will count towards your grades. For polls, I will give credit for participation only, the correctness of the answers will not influence the grades. For quizzes, of course, the grading will depend on the answers.  If you miss an iClicker activity without prior approval, you will not be able to make up for it.
 
-
 ### Presentation Format
 15 minutes presentation total (sharp), allow a minimum of 2 minutes for questions. Papers can either be selected from the list provided  [here](https://www.dropbox.com/scl/fo/dmxzezrx4yztq98p5jf9f/APhHThb5mSrmXrMMKzYlTkg?rlkey=vtog00ryx9oc1329h77pz6ew8&dl=0) (first come first serve) or from the general literature upon approval by the instructor. Papers that have already been selected by someone will show up as _\<papertitle\>_\__TAKEN_\__\<NAME\>.pdf_ (where \<papertitle\> and \<NAME\> are variables). 
 
 We will use 3 timeslots for the presentations. Two will fall into the finals week, and one will be the last timeslot for the regular classes. In the interest of fairness, I will calculate the order of the presentations live during the last class before the presentations using the Python random generation capabilities. This will ensure that everyone has to be ready with their presentation at the same time. I will also incorporate attendance at the three presentation sessions into the presentation score. 
-
-### Presentation Schedule
-
-#### June 3rd (2:00 PM - 3:15 PM)
-
-* Jiatong - _Attention Is All You Need_
-* Bowen - _An image is worth 16X16 words: transformers for image recognition at scale_
-* Emily J - _High-precision automated reconstruction of neurons with flood-filling networks_
-* Yanwei - _DeepNeuron: an open deep learning toolbox for neuron tracing_
-
 
 ### Reference Material
 Generally, textbooks do not adequately cover the areas we are discussing due to the exponential development curve of the field. This rapid advancement means that even recently published books can quickly become outdated. Nevertheless, here are three excellent textbooks that cover most of the basic concepts in depth:
