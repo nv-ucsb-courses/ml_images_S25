@@ -1,7 +1,7 @@
 # UCSB BioE 244 / IQB 206 
 
 
-![test](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)
+![test](https://www.edgeverve.com/wp-content//uploads/2018/12/AI-Artificial-Intelligence-hat-doesnt-sound-alright-460970-1.png)
 
 ## Introduction to machine learning for biological images and structural biology
 
