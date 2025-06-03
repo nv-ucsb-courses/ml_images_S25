@@ -1,7 +1,7 @@
 # UCSB BioE 244 / IQB 206 
 
 
-![test](https://www.edgeverve.com/wp-content//uploads/2018/12/AI-Artificial-Intelligence-hat-doesnt-sound-alright-460970-1.png)
+![banner](https://www.edgeverve.com/wp-content//uploads/2018/12/AI-Artificial-Intelligence-hat-doesnt-sound-alright-460970-1.png)
 
 ## Introduction to machine learning for biological images and structural biology
 
@@ -86,13 +86,13 @@ Generally, textbooks do not adequately cover the areas we are discussing due to 
 
 For many of the topics we discussed that are not covered in these books, [Wikipedia](https://www.wikipedia.org/) often serves as a useful initial resource, although the quality can vary. I will also provide some additional resources during this course on this site.
 
-<!-- Reviews and Resource tables (with links) are located here: 
+Reviews and Resource tables (with links) are located here: 
 * [Course Resource Directory](https://www.dropbox.com/scl/fo/m247co503xbiw1tfkf9st/AIfOKvHiXZJbWii-iwHhG8E?rlkey=nnt5u3gz8tr9e2kjucb7o0p8o&dl=0).
--->
-<!-- Other useful links: 
+  
+Other useful links: 
 * [TensorFlow](https://www.tensorflow.org/)
 * [PyTorch](https://pytorch.org/)
 * [Keras](https://keras.io/)
 * [KerasCV](https://keras.io/keras_cv/)
 * [HuggingFace](https://huggingface.co/)
--->
+
