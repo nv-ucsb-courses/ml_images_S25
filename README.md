@@ -40,7 +40,7 @@ I set up a chat in the [Discussions section](https://github.com/nv-ucsb-courses/
 - ***Keon*** - EEG driven model predictive position control of an artificial limb using neural net
 - ***Marcus*** - Automated segmentation of cell organelles in volume electron microscopy using deep learning
   
-*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20 minutes break*
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- 20 minutes break ---*
 - ***Emily G*** - Precise measurement of nanoscopic septin ring structures with deep learning-assisted quantitative superresolution microscopy
 - ***Mounami*** - ViTBIS: Vision Transformer for Biomedical Image Segmentation
 - ***Rafael*** - Highly accurate protein structure prediction with AlphaFold
