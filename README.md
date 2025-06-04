@@ -27,7 +27,7 @@ I set up a chat in the [Discussions section](https://github.com/nv-ucsb-courses/
 - ***Emily J*** - High-precision automated reconstruction of neurons with flood-filling networks
 - ***Yanwei*** - DeepNeuron: an open deep learning toolbox for neuron tracing
 
-*June 6th (2:00 PM - 3:15 PM):*
+*June 5th (2:00 PM - 3:15 PM):*
 - ***Elizabeth*** - DeepImageJ: A user-friendly environment to run deep learning models in ImageJ
 - ***Kat*** - Cellpose 2.0: how to train your own model
 - ***Katelyn*** - Democratising deep learning for microscopy with ZeroCostDL4Mic
@@ -39,13 +39,14 @@ I set up a chat in the [Discussions section](https://github.com/nv-ucsb-courses/
 - ***Andres*** - CryoDRGN: reconstruction of heterogeneous cryo-EM structures using neural networks
 - ***Keon*** - EEG driven model predictive position control of an artificial limb using neural net
 - ***Marcus*** - Automated segmentation of cell organelles in volume electron microscopy using deep learning
-  
-*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- 20 minutes break ---*
 - ***Emily G*** - Precise measurement of nanoscopic septin ring structures with deep learning-assisted quantitative superresolution microscopy
+  
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- 15 minutes break ---*
 - ***Mounami*** - ViTBIS: Vision Transformer for Biomedical Image Segmentation
 - ***Rafael*** - Highly accurate protein structure prediction with AlphaFold
 - ***Kevin*** - Accurate structure prediction of biomolecular interactions with AlphaFold 3
 - ***Sam*** - Simulating 500 million years of evolution with a language model
+- ***Jaihui*** - CDeep3M—Cloud-Based Deep Learning for Image Segmentation
 
 
 ### Learning Objectives
